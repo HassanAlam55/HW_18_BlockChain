@@ -1,0 +1,8 @@
+./geth --datadir node1 account new
+./geth --datadir node2 account new
+
+Node 1:
+	- pwd: testing
+	Public address of the key:   0xE0561E959A638346f6a8E501e74BeA6f0c31B011
+	Path of the secret key file: node2\keystore\UTC--2021-07-27T19-35-29.144766600Z--e0561e959a638346f6a8e501e74bea6f0c31b011
+	forward path: node2/keystore/UTC--2021-07-27T19-35-29.144766600Z--e0561e959a638346f6a8e501e74bea6f0c31b011

@@ -1,0 +1,40 @@
+=============== Jul 27, 2021 (PDT) ===============
+12:51:49.632229 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:51:49.656494 db@open opening
+12:51:49.664261 version@stat F·[] S·0B[] Sc·[]
+12:51:49.672028 db@janitor F·2 G·0
+12:51:49.672028 db@open done T·15.5334ms
+12:51:49.777828 db@close closing
+12:51:49.778800 db@close done T·972.7µs
+=============== Jul 27, 2021 (PDT) ===============
+13:00:15.482520 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:00:15.484461 version@stat F·[] S·0B[] Sc·[]
+13:00:15.485432 db@open opening
+13:00:15.486403 journal@recovery F·1
+13:00:15.499993 journal@recovery recovering @1
+13:00:15.514562 memdb@flush created L0@2 N·15 S·1KiB "H\xf3\b..\xbd\x13P,v8":"\xcfw\x8f..\xc4\xd0\xd2,v3"
+13:00:15.532997 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+13:00:15.553380 db@janitor F·3 G·0
+13:00:15.553380 db@open done T·67.9474ms
+=============== Jul 27, 2021 (PDT) ===============
+13:01:00.663217 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:01:00.665159 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+13:01:00.666129 db@open opening
+13:01:00.666129 journal@recovery F·1
+13:01:00.933061 journal@recovery recovering @3
+13:01:00.939857 memdb@flush created L0@5 N·3 S·497B "Dat..ion,v17":"cli..\xbd\x13P,v19"
+13:01:01.344624 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+13:01:01.357242 db@janitor F·4 G·0
+13:01:01.357242 db@open done T·691.1132ms
+13:21:54.809683 db@close closing
+13:21:54.811643 db@close done T·1.9595ms
+=============== Jul 27, 2021 (PDT) ===============
+13:22:01.478047 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:22:01.485792 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+13:22:01.485792 db@open opening
+13:22:01.487734 journal@recovery F·1
+13:22:01.531534 journal@recovery recovering @6
+13:22:01.563143 memdb@flush created L0@8 N·10 S·645B "H\x97\xc2..\xab\x84a,v24":"r\x00\x00..\xab\x84a,v26"
+13:22:01.595171 version@stat F·[3] S·2KiB[2KiB] Sc·[0.75]
+13:22:01.685957 db@janitor F·5 G·0
+13:22:01.685957 db@open done T·200.1647ms

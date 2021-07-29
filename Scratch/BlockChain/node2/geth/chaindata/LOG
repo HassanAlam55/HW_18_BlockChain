@@ -1,0 +1,32 @@
+=============== Jul 26, 2021 (PDT) ===============
+20:22:04.262278 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:22:04.321152 db@open opening
+20:22:04.329022 version@stat F·[] S·0B[] Sc·[]
+20:22:04.335375 db@janitor F·2 G·0
+20:22:04.336345 db@open done T·15.1928ms
+20:22:04.573182 db@close closing
+20:22:04.573182 db@close done T·0s
+=============== Jul 26, 2021 (PDT) ===============
+20:37:09.390552 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:37:09.392493 version@stat F·[] S·0B[] Sc·[]
+20:37:09.393466 db@open opening
+20:37:09.395420 journal@recovery F·1
+20:37:09.396392 journal@recovery recovering @1
+20:37:09.435213 memdb@flush created L0@2 N·623 S·50KiB "\x02d\xfc..\x19Ba,v429":"\xfe\x88\xcf..H\xef\xcc,v362"
+20:37:09.437146 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+20:37:09.467236 db@janitor F·3 G·0
+20:37:09.467236 db@open done T·73.7697ms
+20:37:09.639263 db@close closing
+20:37:09.640495 db@close done T·260.9µs
+=============== Jul 26, 2021 (PDT) ===============
+20:40:13.486263 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:40:13.488401 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+20:40:13.488401 db@open opening
+20:40:13.489064 journal@recovery F·1
+20:40:13.523394 journal@recovery recovering @3
+20:40:13.531671 memdb@flush created L0@5 N·1 S·390B "eth..\xaa+\xe7,v625":"eth..\xaa+\xe7,v625"
+20:40:13.592450 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+20:40:13.616602 db@janitor F·4 G·0
+20:40:13.616602 db@open done T·128.201ms
+20:40:22.711144 db@close closing
+20:40:22.712116 db@close done T·972.1µs
