@@ -5,6 +5,8 @@ To test bitcoin network go to:<br>
 step 5 <br>
 I have installed the test network in steps 1 - 4 so you should be able to run it.
 
+<span style="color:red">**If you want to create your own network, please follow instructions in: [Crypto Setup Instructions.](POA-Blockchain-guide.md)<br>**</span> For brevity and readability, I put the instructions in a separate file.
+
 
 ### 1. Set up Nodes<br>
 I created two nodes for exchange Crypto: node1 and node2 with the following commands<br>
